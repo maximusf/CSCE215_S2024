@@ -1,0 +1,27 @@
+https://github.com/maximusf/.dotfiles
+
+For this Homework 1 assignment I created a github account and learned to use it within the linux terminal. To do this, I had to create a github repository named ".dotfiles".
+
+Within the linux terminal, I created a directory on my computer called "github" and generated a key that I then saved within my github settings. This allowed me to control my github repository from my linux terminal. We created a README.md file and copied the .vimrc file from lab 02 and added them to the github directory.
+
+After commiting the changes to the github directory, I was able to view the commit done through the ".dotfiles" repository on the github website. 
+
+I didn't really encounter any issues other than getting confused because I couldn't see the copied .vimrc file until I did "ls -a".
+
+Commands I used in section 4:
+mkdir .dotfiles
+ls -a
+cd ./.dotfiles/
+pwd
+touch README.md
+vim README.md
+:wq
+cat README.md
+cp ~/.vimrc ~/.dotfiles/
+git init
+git add --all
+git commit -m "INIT commit"
+git branch -M main
+git remote add origin git@github.com:<maximusf>/.dotfiles
+git push -u origin main
+
