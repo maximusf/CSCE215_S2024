@@ -1,0 +1,54 @@
+Maximus Fernandez Homework 0 1/24/24
+
+What command is the website about? What does the command do?
+The website is about the 'gcc' command which stands for GNU Compiler Collections. The command is mainly used to compile C and C++ language and can also be used to compile Objective C and Objective C++. 
+
+----------------------------------
+Research
+1. grep
+Searches a file for a pattern of characters and displays all lines that contain the pattern
+
+2. find
+Allows users to search by name, size, modificaiton time, or content in file exploration.
+
+3. head 
+Prints the top N number of data of the given input. It defaults to printing the first 10 lines of the specified files.
+
+4. tail
+Prints the last N number of data of the given input. It defaults to printing the last 10 lines of the specified files.
+
+5. sed
+Stands for stream editor and can perform functions on a file like searching, find/replace, insertion/deletion. 
+
+6. "top" or "htop"
+"top" - Used to show Linux processes by providing a dynamic real-time view of the running system.
+"htop" - Newer program compared to top. Used to monitor system's vital resources or server's processes in real time.
+
+7. "vi or "vim"
+An advanced and highly configurable text editor built to enable efficient text editing.
+
+8. rm
+command is used to remove files, directories, symbolic links, and more within the file system.
+
+9. fortune
+Prints out a random interesting proverb.
+
+10. yes
+Used to print a continuous output stream of a given STRING.
+
+----------------------------------
+Citations Below
+https://www.geeksforgeeks.org/gcc-command-in-linux-with-examples/
+https://www.geeksforgeeks.org/grep-command-in-unixlinux/?ref=gcse
+https://www.geeksforgeeks.org/find-command-in-linux-with-examples/?ref=header_search
+https://www.geeksforgeeks.org/head-command-linux-examples/?ref=header_search
+https://www.geeksforgeeks.org/tail-command-linux-examples/?ref=header_search
+https://www.geeksforgeeks.org/sed-command-in-linux-unix-with-examples/?ref=header_search
+https://www.geeksforgeeks.org/top-command-in-linux-with-examples/?ref=header_search
+https://www.geeksforgeeks.org/htop-command-in-linux-with-examples/?ref=header_search
+https://www.geeksforgeeks.org/vi-editor-unix/?ref=header_search
+https://www.geeksforgeeks.org/rm-command-linux-examples/?ref=header_search
+https://www.geeksforgeeks.org/cool-custom-welcome-messages-linux-terminal/?ref=header_search
+https://www.geeksforgeeks.org/yes-command-in-linux-with-examples/?ref=header_search
+
+
