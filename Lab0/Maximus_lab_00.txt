@@ -1,0 +1,36 @@
+1. Copy the output of the hostname and whoami command to the first two lines of the
+text file.
+hostname: cocsce-l1d43-04
+whoami: maximusf
+
+2. What is the word for the terminal interface software?
+command-line interface (CLI)
+
+3. What is a path?
+Paths are the locations of a file or directory in the file system's hierarchy
+
+4. What is a directory?
+Like a "folder" for files
+
+5. What is a file?
+Data stored in a file through a purely text format
+
+6. What is the highest level or the top of the file system called? (Hint: You cannot go up
+directories past this point and global/absolute paths start with this.)
+root 
+
+7. What command do we use to see our current global/absolute location?
+'pwd'
+
+8. What is the directory where all your personal files and directories live called?
+Home directory (~)
+
+9. What terminal command is the same as double-clicking on a folder/directory in the
+GUI to navigate around from one folder/directory to another?
+'cd'
+
+10. What terminal command do we use to show files/directories?
+'ls'
+
+
+
