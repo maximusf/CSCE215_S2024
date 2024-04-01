@@ -1,0 +1,12 @@
+Maximus Alejandro Fernandez Nunez
+Lab 02 2/5/24
+
+I copied and renamed a vim file by using the terminal. First I found the .vimrc file by typing the command "ls -a" which reveals any files starting with '.' then I used the "cp" command to copy the .vimrc file to the desktop and rename it to "maximusf_lab_02_guided.txt".
+Some struggles I encountered was figuring out how to switch to insert mode in vim. To do this, I just typed "i" within command mode and press "esc" to go back to command mode. 
+
+syntax on
+set ruler
+set autoindent
+set number
+set ignorecase
+color elflord
